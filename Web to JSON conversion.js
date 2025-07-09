@@ -119,7 +119,7 @@
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         a.href = url;
-        a.download = `AI-ready-content-${new Date().getTime()}.json`;
+        a.download = `Web JSON-${new Date().getTime()}.json`;
         document.body.appendChild(a);
         a.click();
         
