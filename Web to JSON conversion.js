@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Web to JSON conversion
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  一键保存网页内容为AI可读的JSON文件（目前仅支持文本与表格内容）
 // @author       DeepSeek R1 0528
 // @match        *://*/*
